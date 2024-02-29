@@ -21,3 +21,4 @@ OLED_ENABLE = yes
 OLED_DRIVER = SSD1306
 
 SPLIT_KEYBOARD = yes
+LTO_ENABLE = yes            # Use link time optimization for smaller firmware
